@@ -1,0 +1,15 @@
+{
+  "name": "hugo-tina",
+  "version": "1.0.0",
+  "description": "Support for the hugo + tina app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novellac/hugo-tina.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/novellac/hugo-tina/issues"
+  },
+  "homepage": "https://github.com/novellac/hugo-tina#readme"
+}
