@@ -11,5 +11,9 @@
   "bugs": {
     "url": "https://github.com/novellac/hugo-tina/issues"
   },
-  "homepage": "https://github.com/novellac/hugo-tina#readme"
+  "homepage": "https://github.com/novellac/hugo-tina#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.6",
+    "tinacms": "^1.1.3"
+  }
 }

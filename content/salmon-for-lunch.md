@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Salmon for lunch is a good idea
+title: Salmon for lunch so fresh
 draft: false
 date: '2023-01-17T16:52:49.729Z'
 ---
+
 Unfortunately it was only the cat had salmon for lunch, not I.
 
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
