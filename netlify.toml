@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "yarn tinacms build && hugo"
 
 [build.environment]
   HUGO_VERSION = "0.103.1"

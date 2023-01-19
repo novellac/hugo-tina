@@ -12,6 +12,10 @@
     "url": "https://github.com/novellac/hugo-tina/issues"
   },
   "homepage": "https://github.com/novellac/hugo-tina#readme",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
+  },
   "dependencies": {
     "@tinacms/cli": "^1.0.6",
     "tinacms": "^1.1.3"
